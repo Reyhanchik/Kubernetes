@@ -1,0 +1,18 @@
+[2022-05-22 21:34:48.209] [remoteagent] [info] Extension host agent started.
+[2022-05-22 21:34:49.300] [remoteagent] [info] [<unknown>][4420af63][ManagementConnection] New connection established.
+[2022-05-22 21:34:49.411] [remoteagent] [info] [<unknown>][58b5049e][ExtensionHostConnection] New connection established.
+[2022-05-22 21:34:49.426] [remoteagent] [info] [<unknown>][58b5049e][ExtensionHostConnection] <7927> Launched Extension Host Process.
+[2022-05-22 21:35:11.462] [remoteagent] [info] [<unknown>][4420af63][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-05-22 21:35:11.485] [remoteagent] [info] [<unknown>][58b5049e][ExtensionHostConnection] <7927> Extension Host Process exited with code: 0, signal: null.
+[2022-05-22 21:35:11.486] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-05-22 21:35:17.122] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-05-22 21:35:17.122] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-05-22 21:35:18.515] [remoteagent] [info] [<unknown>][850c65e2][ManagementConnection] New connection established.
+[2022-05-22 21:35:18.587] [remoteagent] [info] [<unknown>][494831ab][ExtensionHostConnection] New connection established.
+[2022-05-22 21:35:18.593] [remoteagent] [info] [<unknown>][494831ab][ExtensionHostConnection] <8635> Launched Extension Host Process.
+[2022-05-22 21:40:17.124] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-05-22 21:50:42.515] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
+[2022-05-22 21:50:42.516] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-05-22 22:30:19.899] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
+[2022-05-22 22:30:19.899] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-05-22 22:30:20.016] [remoteagent] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

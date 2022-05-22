@@ -1,0 +1,16 @@
+[2022-05-21 11:33:30.643] [exthost] [info] Extension host with pid 7581 started
+[2022-05-21 11:33:30.656] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/6cf81dba42b6b9fc265d92256d7b1070/vscode.lock': Lock acquired.
+[2022-05-21 11:33:30.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-21 11:33:31.003] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-21 11:33:31.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-21 11:33:31.524] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-21 11:33:31.600] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-21 11:33:31.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-21 11:33:31.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-21 11:33:31.821] [exthost] [info] Eager extensions activated
+[2022-05-21 11:57:05.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-21 11:57:05.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-21 11:57:05.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-21 14:30:50.599] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-05-21 14:30:50.600] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/6cf81dba42b6b9fc265d92256d7b1070/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-05-21 14:30:50.613] [exthost] [info] Extension host with pid 7581 exiting with code 0

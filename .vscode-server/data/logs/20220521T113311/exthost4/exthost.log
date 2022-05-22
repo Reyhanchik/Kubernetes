@@ -1,0 +1,19 @@
+[2022-05-21 14:26:10.173] [exthost] [info] Extension host with pid 32524 started
+[2022-05-21 14:26:10.176] [exthost] [error] Error: EEXIST: file already exists, open '/home/ec2-user/.vscode-server/data/User/workspaceStorage/6cf81dba42b6b9fc265d92256d7b1070/vscode.lock'
+[2022-05-21 14:26:10.180] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/6cf81dba42b6b9fc265d92256d7b1070/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-05-21 14:26:10.186] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/6cf81dba42b6b9fc265d92256d7b1070/vscode.lock': The lock does not look stale, elapsed: 39 ms, giving up.
+[2022-05-21 14:26:10.190] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/6cf81dba42b6b9fc265d92256d7b1070-1/vscode.lock': Lock acquired.
+[2022-05-21 14:26:10.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-21 14:26:10.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-21 14:26:10.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-21 14:26:11.304] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-21 14:26:11.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-21 14:26:11.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-21 14:26:11.614] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-21 14:26:11.619] [exthost] [info] Eager extensions activated
+[2022-05-21 14:42:40.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-21 14:42:40.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-21 14:42:40.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-21 22:06:33.338] [exthost] [info] Extension host terminating: renderer disconnected for too long (1)
+[2022-05-21 22:06:33.339] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/6cf81dba42b6b9fc265d92256d7b1070-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-05-21 22:06:33.352] [exthost] [info] Extension host with pid 32524 exiting with code 0

@@ -1,0 +1,21 @@
+{
+  "kind": "Node",
+  "apiVersion": "v1",
+  "metadata": {
+    "name": "node1",
+    "labels": {
+      "name": "my-first-k8s-node"
+    }
+  }
+}
+---
+{
+  "kind": "Node",
+  "apiVersion": "v1",
+  "metadata": {
+    "name": "node",
+    "labels": {
+      "name": "my-second-k8s-node"
+    }
+  }
+}
