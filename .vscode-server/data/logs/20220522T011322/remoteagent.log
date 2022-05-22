@@ -1,7 +1,0 @@
-[2022-05-22 01:13:22.477] [remoteagent] [info] Extension host agent started.
-[2022-05-22 01:13:25.950] [remoteagent] [error] [<unknown>][8f60beba][ManagementConnection] Unknown reconnection token (never seen).
-[2022-05-22 01:13:26.165] [remoteagent] [error] [<unknown>][47db8350][ExtensionHostConnection] Unknown reconnection token (never seen).
-[2022-05-22 10:04:20.685] [remoteagent] [info] [<unknown>][2948c8f0][ManagementConnection] New connection established.
-[2022-05-22 10:04:20.771] [remoteagent] [info] [<unknown>][3a9f02d4][ExtensionHostConnection] New connection established.
-[2022-05-22 10:04:20.775] [remoteagent] [info] [<unknown>][3a9f02d4][ExtensionHostConnection] <220757> Launched Extension Host Process.
-[2022-05-22 12:03:54.568] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV

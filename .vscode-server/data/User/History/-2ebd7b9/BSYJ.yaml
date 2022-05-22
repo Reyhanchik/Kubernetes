@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: Nodemetadata: {
-    name: node1
-    labels: {
-      name: "my-first-k8s-node"
-    }
-  }
